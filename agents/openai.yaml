@@ -1,4 +1,4 @@
 interface:
   display_name: "Source Code Blog"
   short_description: "Write verified tutorials with inline teaching comments"
-  default_prompt: "使用 $source-code-blog，从原始源码生成完整教学：先调查并建立教学总纲，写清原理主文，再展开带代码内注释的源码深读；完成源码与读者审查并自行返修后交付。"
+  default_prompt: "使用 $source-code-blog，从原始源码查清主要路径，先解释概念，再用代码链路、流程图和中文注释讲清过程；分别核验范围覆盖与读者理解，返修后交付。"
